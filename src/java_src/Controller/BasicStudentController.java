@@ -1,4 +1,4 @@
-package com.codecool.MKM.queststore.Controller;
+package java_src.Controller;
 
 public class BasicStudentController implements StudentController{
 

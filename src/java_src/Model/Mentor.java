@@ -1,4 +1,4 @@
-package com.codecool.MKM.queststore.Model;
+package java_src.Model;
 
 public class Mentor extends User {
 

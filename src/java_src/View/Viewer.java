@@ -1,4 +1,4 @@
-package com.codecool.MKM.queststore.View;
+package java_src.View;
 
 public class Viewer {
 

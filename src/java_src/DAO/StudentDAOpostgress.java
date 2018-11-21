@@ -1,4 +1,4 @@
-package com.codecool.MKM.queststore.DAO;
+package java_src.DAO;
 
 import com.codecool.MKM.queststore.Model.Mentor;
 import com.codecool.MKM.queststore.Model.User;

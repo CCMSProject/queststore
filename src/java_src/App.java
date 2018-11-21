@@ -1,7 +1,7 @@
-package com.codecool.MKM.queststore;
+package java_src;
 
 
-import com.codecool.MKM.queststore.DAO.LoginDAOpostgress;
+import java_src.DAO.LoginDAOpostgress;
 
 public class App
 {

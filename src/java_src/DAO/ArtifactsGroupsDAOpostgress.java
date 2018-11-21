@@ -1,4 +1,4 @@
-package com.codecool.MKM.queststore.DAO;
+package java_src.DAO;
 
 public class ArtifactsGroupsDAOpostgress extends DAO implements ArtifactsGroupsDAO {
 }

@@ -1,4 +1,4 @@
-package com.codecool.MKM.queststore.Model;
+package java_src.Model;
 
 import sun.awt.geom.AreaOp;
 
