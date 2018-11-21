@@ -1,4 +1,4 @@
-package com.codecool.MKM.queststore.DAO;
+package java_src.DAO;
 
 public interface ArtifactsSingleDAO {
 }
