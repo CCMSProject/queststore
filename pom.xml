@@ -16,6 +16,11 @@
                 </configuration>
             </plugin>
         </plugins>
+        <resources>
+            <resource>
+                <directory>views</directory>
+            </resource>
+        </resources>
     </build>
     <name>queststore</name>
   <url>http://maven.apache.org</url>
